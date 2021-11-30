@@ -93,6 +93,46 @@ Here is a list of all categories and subcategories available on ArXiv
 | | | Statistics Theory | `math.ST`
 | | | Symplectic Geometry | `math.SG`
 | Computing Research Repository | `CoRR` |
+| | | Artificial Intelligence | `cs.AI`
+| | | Computation and Language | `cs.CL`
+| | | Computational Complexity | `cs.CC`
+| | | Computational Engineering, Finance, and Science | `cs.CE`
+| | | Computational Geometry | `cs.CG`
+| | | Computer Science and Game Theory | `cs.GT`
+| | | Computer Vision and Pattern Recognition | `cs.CV`
+| | | Computers and Society | `cs.CY`
+| | | Cryptography and Security | `cs.CR`
+| | | Data Structures and Algorithms | `cs.DS`
+| | | Databases | `cs.DB`
+| | | Digital Libraries | `cs.DL`
+| | | Discrete Mathematics | `cs.DM`
+| | | Distributed, Parallel, and Cluster Computing | `cs.DC`
+| | | Emerging Technologies | `cs.ET`
+| | | Formal Languages and Automata Theory | `cs.FL`
+| | | General Literature | `cs.GL`
+| | | Graphics | `cs.GR`
+| | | Hardware Architecture | `cs.AR`
+| | | Human-Computer Interaction | `cs.HC`
+| | | Information Retrieval | `cs.IR`
+| | | Information Theory | `cs.IT`
+| | | Logic in Computer Science | `cs.LO`
+| | | Machine Learning | `cs.LG`
+| | | Mathematical Software | `cs.MS`
+| | | Multiagent Systems | `cs.MA`
+| | | Multimedia | `cs.MM`
+| | | Networking and Internet Architecture | `cs.NI`
+| | | Neural and Evolutionary Computing | `cs.NE`
+| | | Numerical Analysis | `cs.NA`
+| | | Operating Systems | `cs.OS`
+| | | Other Computer Science | `cs.OH`
+| | | Performance | `cs.PF`
+| | | Programming Languages | `cs.PL`
+| | | Robotics | `cs.RO`
+| | | Social and Information Networks | `cs.SI`
+| | | Software Engineering | `cs.SE`
+| | | Sound | `cs.SD`
+| | | Symbolic Computation | `cs.SC`
+| | | Systems and Control | `cs.SY`
 | Quantitative Biology | `q-bio` |
 | | | Biomolecules | `q-bio.BM`
 | | | Cell Behavior | `q-bio.CB`
@@ -121,3 +161,12 @@ Here is a list of all categories and subcategories available on ArXiv
 | | | Methodology | `stat.ME`
 | | | Other Statistics | `stat.OT`
 | | | Statistics Theory | `stat.TH`
+| Electrical Engineering and Systems Science | `eess`
+| | | Audio and Speech Processing | `eess.AS`
+| | | Image and Video Processing | `eess.IV`
+| | | Signal Processing | `eess.SP`
+| | | Systems and Control | `eess.SY`
+| Economics | `econ`
+| | | Econometrics | `econ.EM`
+| | | General Economics | `econ.GN`
+| | | Theoretical Economics | `econ.TH`
